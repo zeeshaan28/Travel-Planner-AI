@@ -42,7 +42,7 @@ Dynamic travel planner to provide real-time route optimization and personalized 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travel-planner-ai.git
+   git clone https://github.com/zeeshaan28/travel-planner-ai.git
    cd travel-planner-ai
    ```
 
